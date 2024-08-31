@@ -1,0 +1,35 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.h2{
+color: rgb(250, 100, 0);
+}
+
+.main h3{
+    color: aqua;
+}
+
+.batch>li>h4{
+    color: blue;
+
+}
+.tech>li>h4{
+    color: rgb(187, 81, 248);
+}
+.sky~.steve{
+    color: rgb(218, 98, 0);
+}
+.tech>ol>.sky{
+    color: rgb(3, 12, 97);
+}
+.white+.black{
+    color: rgb(199, 212, 15);
+}
+.steve+.white{
+    color: rgb(212, 15, 58);
+}
+
+.loki>.sky{
+    color: rgb(121, 45, 62);
+}
